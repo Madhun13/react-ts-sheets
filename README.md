@@ -41,6 +41,7 @@ This project replicates spreadsheet features such as a dynamic grid, scrollable 
 
 2.📦 Install dependencies
      npm install
+     
 3. Start development server
      npm run start
    Open http://localhost:5173 in your browser
