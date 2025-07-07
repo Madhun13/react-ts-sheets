@@ -41,7 +41,6 @@ This project replicates spreadsheet features such as a dynamic grid, scrollable 
 
 2.📦 Install dependencies
      npm install
-
 3. Start development server
      npm run start
    Open http://localhost:5173 in your browser
@@ -52,15 +51,24 @@ You can deploy react-ts-sheets easily to platforms like:
    Netlify
    GitHub Pages
 
+   ---
    
-   Example Vercel Steps:
+##   Example Vercel Steps:
+   
 1.Push the project to GitHub
 
 2.Go to vercel.com → Import GitHub repo
 
 3.Set build command to npm run build
 
-Set output directory to dist
+4.Set output directory to dist
+
+---
+
+## 🙋‍♀️ Author
+Made with 💙 by Nain
+
+
 
 
 
