@@ -51,9 +51,12 @@ This project replicates spreadsheet features such as a dynamic grid, scrollable 
 
  4.🌐 Deployment
      You can deploy react-ts-sheets easily to platforms like:
-        ● Vercel
-        ● Netlify
-        ● GitHub Pages
+     
+   ● Vercel
+        
+   ● Netlify
+   
+   ● GitHub Pages
 
    ---
    
